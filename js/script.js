@@ -10,4 +10,4 @@ console.log(colore);
 let numero = 23;
 console.log(numero);
 
-document.getElementById("password").innerHTML = `${document.getElementById("password").innerHTML}${nome}${cognome}${colore}${numero}`;
+document.getElementById("password").innerHTML = `${nome}${cognome}${colore}${numero}`;
