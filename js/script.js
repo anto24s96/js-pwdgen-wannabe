@@ -1,4 +1,4 @@
-let nome = prompt("inserisci il tuo nome");
+/* let nome = prompt("inserisci il tuo nome");
 console.log(nome);
 
 let cognome = prompt("inserisci il tuo cognome");
@@ -10,8 +10,14 @@ console.log(colore);
 let numero = 23;
 console.log(numero);
 
-document.getElementById("password").innerHTML = `${nome}${cognome}${colore}${numero}`;
+document.getElementById("password").innerHTML = `${nome}${cognome}${colore}${numero}`; */
 
 
 let greet = "Ciao,Mondo!";
 console.log(greet);
+
+/* let greet = "Come stai,Mondo?";
+console.log(greet); */
+
+
+
