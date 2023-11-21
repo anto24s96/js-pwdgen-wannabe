@@ -22,5 +22,30 @@ console.log(greet); */
 greet = greet + "Come stai?";
 console.log(greet);
 
+let comparison
 
+let numA= 10;
+let numB= 5;
 
+if(numA > numB){
+    comparison = numA
+}
+else{
+    comparison = numB;
+}
+
+console.log(comparison);
+
+/* --------- */
+let = comparison;
+let num_A = 9;
+let num_B = 9;
+
+if(num_A == num_B){
+    comparison = "le stringe sono uguali";
+}
+else{
+    comparison = "le stringe sono diverse";
+}
+
+console.log(comparison);
