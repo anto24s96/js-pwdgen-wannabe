@@ -13,13 +13,13 @@ console.log(numero);
 document.getElementById("password").innerHTML = `${nome}${cognome}${colore}${numero}`; */
 
 
-let greet = "Ciao,Mondo!";
+/* let greet = "Ciao,Mondo!";
 console.log(greet);
 
 /* let greet = "Come stai,Mondo?";
 console.log(greet); */
 
-greet = greet + "Come stai?";
+/* greet = greet + "Come stai?";
 console.log(greet);
 
 let comparison
@@ -34,10 +34,10 @@ else{
     comparison = numB;
 }
 
-console.log(comparison);
+console.log(comparison); */
 
 /* --------- */
-let = comparison;
+/* let = comparison;
 let num_A = 9;
 let num_B = 9;
 
@@ -48,4 +48,17 @@ else{
     comparison = "le stringe sono diverse";
 }
 
-console.log(comparison);
+console.log(comparison); */
+
+/* --------- */
+
+let comparison;
+
+let num = 9;
+
+if(num == "9"){
+    comparison = true;
+}
+else{
+    comparison = false;
+}
