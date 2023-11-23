@@ -71,6 +71,9 @@ else{
 
 
 /* ------------ */
-for(let i=42; i>=1; i--){
+/* for(let i=42; i>=1; i--){
     console.log(i);
-}
+} */
+
+const numbers = [2, 4, 6, 8, 10, 12, 14, 16];
+console.log(numbers);
