@@ -52,7 +52,7 @@ console.log(comparison); */
 
 /* --------- */
 
-let comparison;
+/* let comparison;
 
 let num = 9;
 
@@ -61,4 +61,10 @@ if(num == "9"){
 }
 else{
     comparison = false;
+} */
+
+
+/* -------------- */
+for(let i=1; i<=42; i++){
+    console.log(i);
 }
